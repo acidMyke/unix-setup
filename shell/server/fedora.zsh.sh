@@ -1,7 +1,7 @@
 #!/bin/sh
 
-ln -s ~/dotfiles/.zshrc ~/.zshrc
-ln -s ~/dotfiles/.config/starship.toml ~/.config/starship.toml
+ln -s ./dotfiles/.zshrc ~/.zshrc
+ln -s ./dotfiles/.config/starship.toml ~/.config/starship.toml
 
 #xclip
 echo "Installing Xclip"
