@@ -3,6 +3,9 @@
 ln -s ~/dotfiles/.zshrc ~/.zshrc
 ln -s ~/dotfiles/.config/starship.toml ~/.config/starship.toml
 
+#xclip
+dnf install xclip
+
 # zsh
 dnf install zsh
 
